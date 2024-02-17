@@ -1,10 +1,11 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 title: Srajan Kumar
+logo: /assets/img/logo.png
 description: I'm a curious fullstack developer who designs and develops
-             websites for fun. Skilled in translating design into user friendly
-             web interfaces. I am currently a pre-final year Computer Science
-             student at Sahyadri College of Engineering and Management, and I
-             love to explore new technologies.
+  websites for fun. Skilled in translating design into user friendly
+  web interfaces. I am currently a pre-final year Computer Science
+  student at Sahyadri College of Engineering and Management, and I
+  love to explore new technologies.
 show_downloads: false
